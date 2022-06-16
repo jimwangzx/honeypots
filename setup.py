@@ -23,7 +23,7 @@ setup(
         'dnspython',
         'requests',
         'impacket',
-        'paramiko==2.7.1',
+        'paramiko==2.10.1',
         'redis',
         'mysql-connector',
         'pycryptodome',
